@@ -1,4 +1,4 @@
-# 1. Домашнее задание к лекции «Компоненты»
+# Домашнее задание к лекции «Компоненты»
 Страница интернет-магазина
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ef1cu8t20l67vw1s?svg=true)](https://ci.appveyor.com/project/ZoomZoom2/ra-components-store-func) [[GithubPages](https://zoomzoom2.github.io/RA-Components-store-func)]
